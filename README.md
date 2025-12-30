@@ -13,7 +13,8 @@ Otomatik Kayıt: Bulunan IP'leri hem ekrana yazacak hem de tahtalar.txt dosyası
 ### Nasıl Çalıştırılır?
 Dosyayı kaydettiğiniz klasörde terminali açın.
 
-##### sudo python3 pardus_yonetici.py komutunu yazın.
+##### sudo python3 pardus_yonetici.py
+komutunu yazın.
 
 Karşınıza gelen ekranda:
 
